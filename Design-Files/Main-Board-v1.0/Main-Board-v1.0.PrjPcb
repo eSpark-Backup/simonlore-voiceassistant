@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OHFYOHQX
 
 [Document9]
-DocumentPath=Buttons-Sheet.SchDoc
+DocumentPath=Buttons-LED-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -304,7 +304,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=Buttons-Sheet.Harness
+DocumentPath=Buttons-LED-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
